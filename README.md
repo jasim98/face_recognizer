@@ -7,6 +7,7 @@ Pre Requistion:
 
 
 Steps for Face recognition
-1) Dataset Creator captures 20 images of faces to create dataset
-2) Trainer.py trains the uploaded pictures for recognition
-3) Recognizer.py recognizes the face of the person
+1) Create a folder called "dataSet" and "trainner"
+2) Dataset Creator captures 20 images of faces to create dataset
+3) Trainer.py trains the uploaded pictures for recognition
+4) Recognizer.py recognizes the face of the person
